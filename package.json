@@ -1,0 +1,13 @@
+{
+  "name": "unit-testing-mini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rachelruff1/unit-testing-mini.git",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
